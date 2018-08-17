@@ -1,0 +1,35 @@
+.monaco-workbench .part.editor {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8) 0%,rgba(0, 0, 0, 0.8) 100%),
+    url(file://C:/Users/%username%/Charactor.png) no-repeat fixed right bottom / auto calc(100% - 40px),
+    url(file://C:/Users/%username%/Background.png) no-repeat fixed left center / cover;
+}
+.monaco-editor, .monaco-editor .inputarea {
+  background: none;
+}
+.monaco-editor.vs-dark {
+  background: none;
+}
+
+.monaco-editor, .monaco-editor-background, .monaco-editor .inputarea.ime-input {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.monaco-editor .margin {
+  background-color: rgba(30, 30, 30, 0.8)  !important;
+}
+
+.one-editor-silo.editor-one{
+  background-color: rgba(0, 0, 0, 0)  !important;
+}
+
+.content.vertical-layout{
+  background-color: rgba(0, 0, 0, 0) !important;
+}
+
+.editor-container{
+  background-color: rgba(0, 0, 0, 0) !important;
+}
+
+.content{
+  background-color: rgba(0, 0, 0, 0) !important;
+}
